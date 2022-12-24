@@ -16,8 +16,8 @@
     <img align="center" height="30" width="40" alt="postgresql-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 </div><br><br><br>
 <div>
-  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=QueziaMenezes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueziaMenezes&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=QueziaMenezes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueziaMenezes&layout=compact&langs_count=16&theme=tokyonight"/>
 </div><br> 
 </div>
   
