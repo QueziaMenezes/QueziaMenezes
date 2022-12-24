@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/quezia-menezes-souza-2793b424a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>  
 <div  align="center"> 
-  <div style="display: inline_block"><br>
+  <div style="display:inline_block"><br>
     <h1 align="center">Studying in this moment</h1>
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -15,11 +15,11 @@
     <img align="center" height="30" width="40" alt="java-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" height="30" width="40" alt="postgresql-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 </div><br><br><br>
+</div>
 <div>
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=QueziaMenezes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueziaMenezes&layout=compact&langs_count=16&theme=tokyonight"/>
 </div><br> 
-</div>
   
 ![Snake animation](https://github.com/QueziaMenezes/QueziaMenezes/blob/output/github-contribution-grid-snake.svg)
 
