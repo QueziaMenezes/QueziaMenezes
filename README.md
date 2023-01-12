@@ -17,8 +17,7 @@
 </div><br><br><br>
 </div>
 <div>
-  <img height="140em" width="380em" src="https://github-readme-stats.vercel.app/api?username=QueziaMenezes&show_icons=true&theme=tokyonight"/>
-  <img height="140em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueziaMenezes&layout=compact&theme=tokyonight"/>
+ 
 </div><br> 
   
 ![Snake animation](https://github.com/QueziaMenezes/QueziaMenezes/blob/output/github-contribution-grid-snake.svg)
