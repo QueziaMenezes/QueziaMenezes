@@ -5,11 +5,7 @@
   <a href="https://www.linkedin.com/in/quezia-menezes-2793b424a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>
 
-<div>  
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=QueziaMenezes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueziaMenezes&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-<br>
+
 
 
 
