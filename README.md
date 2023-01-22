@@ -1,9 +1,9 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8B&size=40&center=true&vCenter=true&width=1000&lines=Hello!+👋;I'm+Quezia+Menezes...;Be+Welcome!!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8B&size=40&center=true&vCenter=true&width=1000&lines=Hello!+👋;I'm+Quezia+Menezes...;Be+Welcome!!)](https://git.io/typing-svg)
 <div  align="right">
   <a href="https://instagram.com/tessmenezes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:queziamenezessouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/quezia-menezes-2793b424a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div><br>
+</div><br><br><br>
 
 <div align="center">
 <a href="https://github.com/QueziaMenezes">
@@ -33,4 +33,4 @@
 
 
 
-## ![mario](https://user-images.githubusercontent.com/112131868/209418336-852887eb-5d92-479e-b724-e8b4650c890f.gif)
+### ![mario](https://user-images.githubusercontent.com/112131868/209418336-852887eb-5d92-479e-b724-e8b4650c890f.gif)
